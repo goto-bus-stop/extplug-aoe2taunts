@@ -1,0 +1,6 @@
+{ "name": "extplug-aoe2taunts"
+, "version": "1.0.0"
+, "description": "ExtPlug plugin that adds Age of Empires 2 taunts to plug.dj chat."
+, "license": "MIT"
+, "author": "René Kooi <rene@kooi.me>"
+, "keywords": [ "extplugin" ] }
